@@ -1,5 +1,6 @@
 # Game Description
-
+## Intro
+This is the final project of ECE243 Computer Organization. Inspired by [Operius](https://gx.games/games/8z54je/operius/), It is implemented on the NIOS II core of a DE1-SOC.
 ## Title Screen
 ![title_screen](https://github.com/GaryZhous/StarWrap/blob/main/title_screen.png)
 - When the game first starts, the title screen will load and a background audio will play.
