@@ -1,6 +1,7 @@
 # Game Description
 
 ## Title Screen
+![title_screen](https://github.com/GaryZhous/StarWrap/blob/main/title_screen.png)
 - When the game first starts, the title screen will load and a background audio will play.
 - Press the “Enter” key on the PS2 keyboard to start the game.
 
