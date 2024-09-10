@@ -18,6 +18,7 @@
   - The goal of the game is to get as high of a score as possible without losing all 3 lives.
 
 ## Gameover Screen
+![Game_Over](https://github.com/GaryZhous/StarWrap/blob/main/game_over.png)
 - If you lose all 3 lives, you have lost the game! A gameover transition sound will play and the VGA will draw the game over screen.
 - A background gameover song will then play until you press the “Enter” key to restart the game, which will bring you back to the title screen.
 
