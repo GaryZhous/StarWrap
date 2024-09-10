@@ -8,8 +8,8 @@
 ## Game
 <table>
   <tr>
-    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play1.png" alt="Image 1" width="200" /></td>
-    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play2.png" alt="Image 2" width="200" /></td>
+    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play1.png" alt="Image 1" width="400" /></td>
+    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play2.png" alt="Image 2" width="400" /></td>
   </tr>
 </table>
 - **Controls**:
