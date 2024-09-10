@@ -6,6 +6,12 @@
 - Press the “Enter” key on the PS2 keyboard to start the game.
 
 ## Game
+<table>
+  <tr>
+    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play1.png" alt="Image 1" width="200" /></td>
+    <td><img src="https://github.com/GaryZhous/StarWrap/blob/main/game_play2.png" alt="Image 2" width="200" /></td>
+  </tr>
+</table>
 - **Controls**:
   - Control the player UFO by using the “A” and “D” keys on the PS2 Keyboard, which will move the UFO left and right, respectively, in a parabolic curve.
   - To shoot bullets at the enemy UFOs (note that they will be aimed down the tunnel and thus towards the middle of the screen), press the “Space” bar on the PS2 keyboard.
